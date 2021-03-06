@@ -7,7 +7,7 @@ on:
   pull_request:
     branches: [ master ]
   schedule:
-    - cron: 0 2,14 * * *
+    - cron: 0 2,22 * * *
 
 jobs:
   Cloud189Checkin:
